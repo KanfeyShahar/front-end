@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Hebrew:wght@900&family=Rubik:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@800&family=Noto+Sans+Hebrew:wght@900&family=Rubik:wght@600&display=swap');
+
+.home{
+  text-decoration:underline;
+  left:0;
+  position: flex;
+  font-family: 'Rubik', sans-serif;
+  font-size: small;
+  color:#fff;
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Hebrew:wght@900&family=Rubik:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@800&family=Noto+Sans+Hebrew:wght@900&family=Rubik:wght@600&display=swap');
+}
+.home:hover{ 
+  color:#0AE7EE;
+}
+@media (max-width: 1500px) {
+  .home {
+    display: none;
+  }
+}
+
+
+.tabs  {
+  color:#fff !important;
+  font-size:xx-large;
+  right:0;
+  position:relative;
+  margin-right: -50px;
+  text-decoration: none;
+  font-family: 'Rubik', sans-serif;
+  @import url('https://fonts.googleapis.com/css2?family=Assistant:wght@800&family=Noto+Sans+Hebrew:wght@900&family=Rubik:wght@600&display=swap');
+  
+  
+}
+@media (max-width: 1500px) {
+  .tab  {
+        
+        position:inherit;
+    
+  }
+}
+
+
+
+

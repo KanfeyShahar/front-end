@@ -1,0 +1,71 @@
+.card {
+    background-color:transparent;
+    border-radius: 12px;
+    box-shadow: 0 1px 5px rgba(1, 54, 63, 0.25);
+    position:flex;
+    width: 70%;
+    height:10rem;
+    margin-top:-2%;
+    margin-left:17%;
+    right:15%;
+    overflow-y: auto;
+    padding:2rem 1rem;
+  }
+
+  .card1 {
+    background-color:transparent;
+    border-radius: 12px;
+    box-shadow: 0 1px 5px rgba(1, 54, 63, 0.25);
+    position:flex;
+    width: 45%;
+    height:20rem;
+    margin-top:1%;
+    margin-left:52%;
+    right:15%;
+    overflow-y: auto;
+    padding:2rem 1rem;
+  }
+  .card2 {
+    background-color:transparent;
+    border-radius: 12px;
+    box-shadow: 0 1px 5px rgba(1, 54, 63, 0.25);
+    position:flex;
+    width: 40%;
+    height:20rem;
+    margin-top:-21%;
+    margin-left:2%;
+    right:15%;
+    overflow: auto;
+    padding:2rem 1rem;
+  }
+
+  .card3 {
+    background-color:transparent;
+    border-radius: 12px;
+    box-shadow: 0 1px 5px rgba(1, 54, 63, 0.25);
+    position:flex;
+    width: 70%;
+    height:10rem;
+    margin-top:3%;
+    margin-left:17%;
+    right:15%;
+    overflow-y: auto;
+    padding:2rem 1rem;
+  }
+
+  .card4 {
+    background-color:transparent;
+    border-radius: 12px;
+    position:flex;
+    width: 30%;
+    height:5rem;
+    margin-top:-2%;
+    margin-left:42%;
+    right:15%;
+    padding:2rem 1rem;
+  }
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,55 @@
+.authentication__header {
+    color: white;
+    text-align: center;
+  }
+  
+  .authentication {
+    width: 90%;
+    max-width: 25rem;
+    margin: 7rem auto;
+    text-align: center;
+  }
+  
+  .authentication form {
+    margin-bottom: 1rem;
+  }
+
+.login{
+  width: 100%;
+  font: inherit;
+  border: 1px solid #ccc;
+  background: #f8f8f8;
+  padding: 0.15rem 0.25rem;
+  margin: 1rem 0;
+  display: block;
+}
+
+.login:focus{
+  outline: none;
+  background: #ebebeb;
+  border-color: #510077;
+}
+
+.card {
+  width:50%;
+    margin: 0;
+    margin-left:25%;
+    border-radius: 6px;
+    padding: 1rem;
+    overflow: hidden;
+    background: transparent;
+  }
+  
+
+  .invalid1 {
+    color: #ca3e51;
+  }
+  
+  .invalidInput {
+    border-color: #cc1313;
+    background-color: #ffeff1;
+  }
+
+  .invalid{
+    color: #ca3e51;
+  }

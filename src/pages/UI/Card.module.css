@@ -1,0 +1,13 @@
+
+  .card {
+    background-color:rgb(255, 255, 255);
+    border-radius: 12px;
+    box-shadow: 0 1px 5px rgba(1, 54, 63, 0.25);
+    position:flex;
+    width: 130%;
+    right:15%;
+ 
+    padding:2rem 1rem;
+  }
+
+ 

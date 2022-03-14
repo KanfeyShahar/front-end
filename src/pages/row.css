@@ -1,0 +1,10 @@
+.row{
+    cursor:pointer
+}
+
+    .swal2-popup {
+        font-size: 1rem !important;
+        font-family: Georgia, serif;
+        direction:rtl;
+        font-family: Tahoma, Verdana, Segoe, sans-serif;
+    }

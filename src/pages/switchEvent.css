@@ -1,0 +1,122 @@
+*
+{
+    user-select: none;
+    -webkit-tap-highlight-color:transparent;
+}
+
+*:focus
+{
+    outline: none;
+}
+
+.button-cover{
+    margin:-6.5%;
+}
+
+#app-cover
+{
+    display: table;
+    width: 50px;
+    margin: 10px auto;
+    overflow:auto;
+}
+
+.row
+{
+    padding: 2rem;
+    margin: 5% auto;
+}
+
+
+.hola, .hola1
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+ 
+}
+
+.button
+{
+    position: relative;
+    top: 15%;
+    left:-14rem;
+    width: 74px;
+    height: 36px;
+    margin: -20px auto 0 auto;
+    
+}
+
+.button.r, .button.r .hola1
+{
+    border-radius: 100px;
+}
+
+.button.b2
+{
+    border-radius: 2px;
+}
+
+.checkbox
+{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    opacity: 0;
+    cursor: pointer;
+    z-index: 3;
+}
+
+.hola
+{
+    z-index: 2;
+}
+
+.hola1
+{
+    width: 100%;
+    background-color: #ebf7fc;
+    transition: 0.3s ease all;
+    z-index: 1;
+}
+
+/* Button 1 */
+#button-1 .hola:before
+{
+    content: 'לא בוצע';
+    position: absolute;
+    top: 4px;
+    left: 4px;
+    width: 30px;
+    height: 30px;
+    color: #fff;
+    font-size: 10px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1;
+    padding: 9px 4px;
+    background-color: #a409ca;
+    border-radius: 50%;
+    transition: 0.3s cubic-bezier(0.18, 0.89, 0.35, 1.15) all;
+}
+
+#button-1 .checkbox:checked + .hola:before
+{
+    content: ' בוצע';
+    left: 42px;
+    background-color: #14a0e0;
+}
+
+#button-1 .checkbox:checked ~ .hola1
+{
+    background-color: #fcebeb;
+}
+
+#button-1 .hola, #button-1 .hola:before, #button-1 .hola1
+{
+    transition: 0.3s ease all;
+}

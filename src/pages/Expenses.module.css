@@ -1,0 +1,227 @@
+
+@media (min-width : 800px){    
+  .expenses {
+    padding: 1rem;
+    margin: 1rem auto;
+    margin-top:10%;
+    margin-left:35%;
+    width: 30rem;
+    max-width: 95%;
+    position:fixed;
+  }
+  .expenses20 {
+    padding: 1rem;
+    margin: 1rem auto;
+    margin-top:5rem;
+    margin-left:70%;
+    width: 30rem;
+    max-width: 95%;
+    position:fixed;
+  }
+
+  .expenses1 {
+    padding: 1rem;
+    margin: 1rem auto;
+    margin-top:-4%;
+    margin-left:0;
+    width: 30rem;
+    max-width: 80%;
+    position:fixed;
+  }
+  .expenses90 {
+    padding: 1rem;
+    margin: 1rem auto;
+    margin-top:0%;
+    margin-left:40%;
+    width: 30rem;
+    max-width: 80%;
+    position:fixed;
+    color:#06c9e9;
+  }
+  .expenses92 {
+    padding: 1rem;
+    margin: 1rem auto;
+    margin-top:0%;
+    margin-left:70%;
+    width: 30rem;
+    max-width: 80%;
+    position:fixed;
+    color:#06c9e9;
+  }
+  .expenses900 {
+    padding: 1rem;
+    margin: 1rem auto;
+    margin-top:0%;
+    margin-left:6%;
+    width: 30rem;
+    max-width: 80%;
+    position:fixed;
+    color:#06c9e9;
+  }
+  .expenses91 {
+    padding: 1rem;
+    margin: 1rem auto;
+    margin-top:20%;
+    margin-left:10%;
+    width: 30rem;
+    max-width: 80%;
+    position:fixed;
+  }
+  .expenses94 {
+    color:#06c9e9;
+    font-weight: bold;
+    padding: 1rem;
+    margin: 1rem auto;
+    margin-top:-5%;
+    margin-left:10%;
+    width: 30rem;
+    max-width: 80%;
+    position:fixed;
+  }
+  .expenses95 {
+    color:#06c9e9;
+    font-weight: bold;
+    padding: 1rem;
+    margin: 1rem auto;
+    margin-top:-3%;
+    margin-left:25%;
+    width: 30rem;
+    max-width: 100%;
+    position:fixed;
+    z-index:900;
+  }
+  .expenses9110 {
+    color:#06c9e9;
+    font-weight: bold;
+    padding: 1rem;
+    margin: 1rem auto;
+    margin-top:-5%;
+    margin-left:29%;
+    width: 40rem;
+    max-width: 100%;
+    position:fixed;
+    z-index:900;
+  }
+
+  .expenses955 {
+    color:#06c9e9;
+    font-weight: bold;
+    padding: 1rem;
+    margin: 1rem auto;
+    margin-top:-7%;
+    margin-left:32%;
+    width: 20rem;
+    max-width: 100%;
+
+  
+  }
+  .expenses_basket {
+    color:#06c9e9;
+    font-weight: bold;
+    margin-top:1%;
+    margin-left:-2%;
+  
+  }
+  .expenses_basket1 {
+    color:#06c9e9;
+    font-weight: bold;
+    margin-left:49%;
+  
+  
+  }
+  .expenses9555 {
+    color:#06c9e9;
+    font-weight: bold;
+    padding: 1rem;
+    margin: 1rem auto;
+    margin-top:-8%;
+    margin-left:22%;
+    width: 30rem;
+    max-width: 100%;
+  
+  }
+  .expense101{
+    color:#06c9e9;
+    font-weight: bold;
+    padding: 1rem;
+    margin: 1rem auto;
+    margin-top:-3%;
+    margin-left:25%;
+    width: 30rem;
+    max-width: 100%;
+    position:fixed;
+    z-index:900;
+  }
+  .expenses96 {
+    color:#06c9e9;
+    font-weight: bold;
+    padding: 1rem;
+    margin: 1rem auto;
+    margin-top:2%;
+    margin-left:2%;
+    width: 30rem;
+    max-width: 100%;
+    position:fixed;
+  }
+  
+  .expenses2 {
+    padding: 1rem;
+    margin: 1rem auto;
+    margin-top:-5%;
+    margin-left:70%;
+    width: 30rem;
+    max-width: 80%;
+    position:fixed;
+  }
+
+    
+  .expenses9 {
+    padding: 1rem;
+    margin: 1rem auto;
+    margin-top:-40%;
+    margin-left:70%;
+    width:12rem;
+    max-width: 40%;
+  }
+  .expenses5 {
+    padding: 1rem;
+    margin: 1rem auto;
+    margin-top:15%;
+    margin-left:0.5%;
+    width: 50rem;
+    max-width: 80%;
+    position:fixed;
+  }
+  .expenses9.labal {
+    text-align:center;
+  }
+  .expenses10 {
+    padding: 1rem;
+    margin: 1rem auto;
+    margin-top:-0%;
+    margin-right:-160%;
+    width: 20rem;
+    max-width:95%;
+    position:fixed;
+  }
+  .expenseH1{
+    font-size:60px ;
+    color:#06c9e9
+  }
+  .expenseH2{
+    color:#06c9e9
+  }
+  .expenseH3{
+    font-size:30px ;
+    font-weight: bold;
+    color:#06c9e9
+  
+  }
+}
+
+
+@media (max-width : 800px){    
+  .expenses5 {
+    display:none;
+  }
+}

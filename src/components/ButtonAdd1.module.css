@@ -1,0 +1,54 @@
+.mod {
+  background-color: rgba(0, 0, 0, 0.473);
+  position: fixed;
+  z-index: 1000;
+  top: 50%;
+  left: 50%;
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  transform: translate(-50%, -50%);
+  padding:10px;
+  direction:rtl;
+ 
+}
+
+.modhidden {
+  display: none;
+}
+
+.modcontentwrapper {
+  width: 90%;
+  max-width:800px;
+  height:500px;
+  margin: 3rem auto;
+  transition: all .5s ease;
+  background-color: #fff;
+  border-radius: 10px;
+  overflow-y:scroll
+  
+  
+
+}
+.modheader {
+ 
+  background: #06c9e9;
+  color:#ffffff;
+  padding:1rem;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  border-bottom: spx solid #00ddff;
+  font-size: 1.5rem;
+  cursor: pointer;
+  font-weight: bold;
+}
+.modheader h2{
+  font-weight: bold;
+}
+
+.modal-main {
+  border: none;
+  padding-bottom: 20px;
+  font-weight: bold;
+}

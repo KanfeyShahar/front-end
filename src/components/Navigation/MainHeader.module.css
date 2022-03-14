@@ -1,0 +1,35 @@
+
+.mainheader {
+    display:flex;
+    width: 99%;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    text-align:center;
+    position:fixed;
+    justify-content :space-between;
+    top: 0;
+    left: 0;
+    background: #02004A;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.26);
+    padding: 0 1rem;
+    z-index:1000;
+
+    
+    direction:rtl;
+    
+    @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Hebrew:wght@900&family=Rubik:wght@600&display=swap');
+    font-family: 'Rubik', sans-serif;
+  }
+  
+  main {
+    margin-top: 5rem;
+  }
+  
+  @media (min-width: 768px) {
+    .main-header {
+      justify-content: space-between;
+    }
+  }
+
+  

@@ -1,0 +1,384 @@
+.newexpense{
+    color: #000;
+    margin:1rem auto;
+}
+.newexpense1{
+    color: #000;
+    margin:-2rem auto;
+}
+
+.row{
+    height:60px; /*set height*/
+   
+    width:100%;
+ 
+    margin-bottom:5.5%;
+    padding:20px;
+
+}
+.col{
+  
+    width:49%;
+    float:left;
+    height:100%;
+    margin-right:-5%; 
+    margin-left:0%;
+}
+.col1{
+    
+    width:49%;
+    float:left;
+    height:100%;
+    margin-right:2%; 
+}
+.col99{
+    
+  width:50%;
+  float:left;
+  height:100%;
+  margin-right:6%; 
+  margin-left:-5%; 
+}
+.col3 {
+  
+    width:32%;
+    float:left;
+    height:100%;
+    margin-right:2%; 
+    margin-left:-3%    
+}
+.col4 {
+   
+    width:32%;
+    float:left;
+    height:100%;
+    margin-right:2%;    
+}
+.col5 {
+   
+    width:32%;
+    float:left;
+    height:100%;
+    margin-right:-4%;   
+    
+}
+.col6{
+  
+    width:49%;
+    float:left;
+    height:100%;
+    margin-right:2%; 
+ 
+}
+.col7{
+    
+    width:49%;
+    float:left;
+    height:100%;
+    margin-right:0; 
+    margin-left:-3%
+}
+.col70{
+    
+  width:49%;
+  float:left;
+  height:100%;
+  margin-right:0; 
+  margin-left:0%
+}
+.col8{
+   
+    width:10%;
+    float:left;
+    height:100%;
+    margin-left:30%; 
+    margin-right:-20%; 
+    
+   
+    
+
+}
+
+.col20{
+   
+    width:10%;
+    float:left;
+    height:100%;
+    margin-left:20%; 
+    margin-right:-30%; 
+    margin-bottom:30%
+    
+   
+    
+}
+
+
+
+.row1{
+    height:50px; /*set height*/
+   
+    width:100%;
+ 
+    margin-bottom:5%;
+    padding:20px;
+
+}
+.col10 {
+   
+    width:32%;
+    float:left;
+    height:100%;
+    margin-left:2%;   
+    
+}
+.col11 {
+  
+    width:32%;
+    float:left;
+    height:100%;
+    margin-right:2%; 
+    margin-left:-2%    
+}
+.col7{
+    
+    width:80%;
+    float:center;
+    height:100%;
+    margin-left:4%;
+ 
+}
+
+.newExpenseControl {
+  
+    margin-bottom: 0.5rem;
+    display: block;
+    margin-right:-100%;
+  }
+
+  .col14{
+    
+    width:49%;
+    float:left;
+    height:100%;
+    margin-right:25%;
+    margin-bottom:0.5rem
+
+}
+
+.NewExpenseInput{
+    font: inherit;
+    padding: 0.2rem;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    width: 20rem;
+    max-width: 100%;
+    margin-right:-100%;
+    margin-bottom:4rem;
+    cursor: pointer;
+
+  }
+  .NewExpenseInput1{
+    font: inherit;
+    padding: 0.3rem;
+    border-radius: 6px;
+    color:inherit;
+    border: 1px solid #ccc;
+    width: 20rem;
+    max-width: 100%;
+    margin-right:-15%;
+    margin-bottom:4rem;
+    cursor: pointer;
+
+  }
+
+  .row10{
+    height:140px; /*set height*/
+   
+    width:50%;
+ 
+    margin-bottom:2%;
+    padding:10px;
+    margin-right:25%;
+
+}
+.row100{
+  width:35%;
+  margin-right:35%;
+
+}
+.header2{
+    color:#000;
+    margin-right:-60%;
+}
+.header15{
+  color:#000;
+  font-weight: bold;
+  font-size:120%;
+  margin-bottom:2%
+}
+.header3{
+    margin-right:-30%;
+    margin-left:-30%;
+    margin-top:5%;
+    font-size:150%;
+    background-color: transparent;
+    border:none;
+    
+    
+}
+.header3:hover{
+    color:rgb(16, 184, 206)
+    
+    
+}
+
+.actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 1rem;
+   
+  }
+  
+  .actions2 {
+    display: flex;
+    justify-content: flex-end;
+    gap: 1rem;
+    margin-left:30%;
+  }
+  .actions button {
+    font: inherit;
+    background-color: #0cd4c4;
+    color: white;
+    cursor: pointer;
+    border: none;
+    border-radius: 25px;
+    padding: 0.5rem 2rem; 
+    color:#000;
+    margin-right:10%;
+    margin-left:20%;
+    margin-top:20%
+    
+    
+  }
+  .actions2 button {
+    font: inherit;
+    background-color: #0cd4c4;
+    color: white;
+    cursor: pointer;
+    border: none;
+    border-radius: 25px;
+    padding: 0.5rem 2rem; 
+    color:#000;
+    margin-right:10%;
+    margin-left:20%;
+    margin-top:5%
+    
+    
+  }
+  
+  .actions button:hover,
+  .actions button:active {
+    background-color: #133ecc;
+  }
+  .actions2 button:hover,
+  .actions2 button:active {
+    background-color: #133ecc;
+  }
+  
+  
+  .actions .submit {
+    border: 1px solid #0cd4c4;
+    background-color: #0cd4c4;
+    color: white;
+  }
+
+  .actions2 .submit {
+    border: 1px solid #0cd4c4;
+    background-color: #0cd4c4;
+    color: white;
+  }
+  
+  .actions .submit:hover,
+  .actions .submit:active {
+    background-color: #133ecc;
+  }
+  
+    
+  .actions2 .submit:hover,
+  .actions2 .submit:active {
+    background-color: #133ecc;
+  }
+  
+  .form {
+    margin: 1rem 0;
+    height: 19rem;
+    overflow: auto;
+    direction:rtl;
+  }
+  
+  .control {
+    margin-bottom: 0.5rem;
+    direction:rtl;
+  }
+  
+  .control label {
+    font-weight: bold;
+    margin-bottom: 0.25rem;
+    display: block;
+    direction:rtl;
+  }
+  
+  .control input {
+    font: inherit;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 20rem;
+    max-width: 100%;
+    direction:rtl;
+  }
+  .description{
+      width:70%;
+      margin-right:15%;
+      margin-bottom:5%;
+  }
+  .description2{
+    width:70%;
+    margin-right:15%;
+    margin-bottom:-15%;
+}
+  .invalid label {
+    color: #ca3e51;
+  }
+  
+  .invalid input {
+    border-color: #cc1313;
+    background-color: #ffeff1;
+  }
+
+  .invalid p {
+    color: #ca3e51;
+  }
+  
+  .invalid1 {
+    margin-top:-13%;
+    margin-right:-10%;
+    color: #ca3e51;
+  }
+
+  .invalid3 {
+    margin-top:-13%;
+    margin-right:-10%;
+  }
+
+  .invalid2 {
+    color: #ca3e51;
+  }
+  .invalid4 {
+    color: #ca3e51;
+    margin-top:-27%;
+    margin-right:-16%;
+  }
+
+  .search {
+    width:20%
+  }

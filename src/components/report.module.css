@@ -1,0 +1,53 @@
+.container{
+    margin:0;
+    padding: 0;
+    size: A4;
+}
+.header {
+    width: 100%;
+    float: right;
+    margin-right:-40%;
+    font-size: 2rem;
+    font-weight: bold;
+    color:black
+  }
+
+.right{
+    margin-left :100%;
+    color:black;
+    font-size: 10px;
+    
+}
+
+.h1{
+    margin-top:20%;
+   margin-right:40%;
+}
+
+.h2{
+    color:black
+}
+
+
+
+body {
+    color: #000000;
+    background: #ffffff;
+    text-align:center;
+    
+    
+}
+.tablewrapper {
+    width: 95%;
+    margin: 6rem auto;
+    background: #fff;
+    padding: 20px 30px 5px;
+   
+    
+
+}
+
+.direction{
+    direction:rtl;
+    
+}

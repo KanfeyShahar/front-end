@@ -1,0 +1,213 @@
+.newexpense {
+  background-color: #ffffff;
+  padding: 2rem;
+  margin: 4rem auto;
+  width: 50rem;
+  max-width: 95%;
+  text-align: center;
+  margin-bottom:7%;
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Hebrew:wght@900&family=Rubik:wght@600&display=swap');
+  font-family: 'Rubik', sans-serif;
+ 
+}
+
+.newexpense h1{
+  /* font-weight: bold; */
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Hebrew:wght@900&family=Rubik:wght@600&display=swap');
+    font-family: 'Rubik', sans-serif;
+  color :#0dc3e4;
+
+}
+
+.type121{
+  font-size:80%;
+}
+
+.newexpensebutton {
+  font: inherit;
+  cursor: pointer;
+  padding: 2rem 5rem;
+  color: #256ce1;
+  margin-right: auto;
+  font-size:2rem;
+}
+
+.newexpensebutton1 {
+  font: inherit;
+  cursor: pointer;
+  padding: 0rem 0rem;
+  color: #256ce1;
+  margin-right: auto;
+  background: transparent;
+  border:none;
+  text-decoration:none
+
+  
+}
+.newexpensebutton1:hover {
+  font: inherit;
+  cursor: pointer;
+  padding: 0rem 0rem;
+  color: #0dc3e4;
+  font-weight:bold;
+  margin-right: auto;
+  background: transparent;
+  border:none;
+ position:relative;
+ top:20%;
+ text-decoration:none
+
+}
+
+
+
+
+.newexpense1 {
+  background-color: #ffffff;
+  padding: 2rem;
+  margin: 4rem auto;
+  width: 80rem;
+  height:2rem;
+  max-width: 20%;
+  text-align: center;
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Hebrew:wght@900&family=Rubik:wght@600&display=swap');
+  font-family: 'Rubik', sans-serif;
+ 
+}
+
+
+.newexpense3 {
+  padding: 1rem;
+  margin: -2rem 40%;
+  position: relative;
+  left:0;
+  text-align: center;
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Hebrew:wght@900&family=Rubik:wght@600&display=swap');
+  font-family: 'Rubik', sans-serif;
+ 
+}
+
+.newexpense2 {
+  background-color: #ffffff;
+  padding: 2rem;
+  margin: 4rem 60%;
+  width: 80rem;
+  height:1rem;
+  max-width: 20%;
+  text-align: center;
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Hebrew:wght@900&family=Rubik:wght@600&display=swap');
+  font-family: 'Rubik', sans-serif;
+ 
+}
+.newexpense6 {
+  background-color: #ffffff;
+  color :#0dc3e4;
+
+  margin: 4rem auto;
+  margin-bottom:5%;
+  width: 50rem;
+  max-width: 95%;
+  text-align: center;
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Hebrew:wght@900&family=Rubik:wght@600&display=swap');
+  font-family: 'Rubik', sans-serif;
+ 
+}
+.newexpense36 {
+  background-color: #ffffff;
+  color :#0dc3e4;
+
+  margin: 4rem auto;
+  margin-bottom:-6%;
+  width: 50rem;
+  max-width: 95%;
+  text-align: center;
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Hebrew:wght@900&family=Rubik:wght@600&display=swap');
+  font-family: 'Rubik', sans-serif;
+}
+.newexpense35 {
+  background-color: #ffffff;
+  color :#0dc3e4;
+
+  margin: 4rem auto;
+  margin-top:6%;
+  margin-left:-10%;
+  width: 50rem;
+  max-width: 95%;
+  text-align: center;
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Hebrew:wght@900&family=Rubik:wght@600&display=swap');
+  font-family: 'Rubik', sans-serif;
+ 
+}
+.newexpense30 {
+  background-color: #ffffff;
+  color :#0dc3e4;
+  margin: 1rem auto;
+  width: 100rem;
+  max-width: 95%;
+  text-align: center;
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Hebrew:wght@900&family=Rubik:wght@600&display=swap');
+  font-family: 'Rubik', sans-serif;
+  
+ 
+}
+.newExpense20{
+  text-align: center;
+  width: 50rem;
+  max-width: 95%;
+  background-color: #ffffff;
+  color :#0dc3e4;
+  margin:2rem ;
+  margin-left:18rem;
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Hebrew:wght@900&family=Rubik:wght@600&display=swap');
+  font-family: 'Rubik', sans-serif;
+}
+.newExpense12{
+  margin:2rem ;
+  margin-left:18rem;
+}
+
+.newExpense50{
+  margin:2rem ;
+  margin-left:18rem;
+  margin-bottom:-2rem;
+}
+.row{
+   /*set height*/
+line-height:20px;
+width:40rem;
+  display:flex;
+  text-align: center;
+  direction:rtl;
+  margin-right:-10rem;
+  margin-left:10rem;
+  padding: 0;
+  border: 0;
+  justify-content:space-between;
+  margin-bottom:10%
+
+}
+.textCenter {
+  text-align: center;
+  margin: 0 auto;
+    width: 100%;
+    direction:rtl;
+}
+
+.newexpense40 {
+  background-color: #ffffff;
+  color :#0dc3e4;
+
+  margin: 4rem auto;
+  margin-bottom:7%;
+  width: 50rem;
+  max-width: 95%;
+  text-align: center;
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Hebrew:wght@900&family=Rubik:wght@600&display=swap');
+  font-family: 'Rubik', sans-serif;
+ 
+}
+
+.button40{
+  background:transparent;
+  border:none;
+}
